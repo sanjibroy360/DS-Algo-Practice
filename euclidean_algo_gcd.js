@@ -10,4 +10,3 @@ console.log(gcd(10,15));
 console.log(gcd(2,0));
 console.log(gcd(0,2));
 console.log(gcd(3,7));
-
